@@ -5,5 +5,7 @@ gevent === 1.4.0
 gunicorn === 20.0.4
 pyyaml === 5.3
 Flask-SQLAlchemy === 2.4.1
-psycopg2 === 2.7
 connexion[swagger-ui]
+jinja2 === 2.11.1
+flask-blueprint === 1.3.0
+gunicorn === 20.0.4

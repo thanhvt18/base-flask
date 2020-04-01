@@ -1,0 +1,7 @@
+<html>
+{% for person in persons %}
+    {% if person.age is not none %}
+        <p>{{- person.name }}</p>
+    {% endif %}
+{%- endfor %}
+</html>
